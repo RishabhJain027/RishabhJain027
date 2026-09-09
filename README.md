@@ -214,21 +214,6 @@ Camera + Code + Design + Storytelling = Creative System
 
 This is where engineering and cinematography overlap for me.
 
----
-
-# 🚀 `CREATIONS // WHAT I'VE BEEN BUILDING`
-
-## 🤖 AI + AUTOMATION
-
-### `yt-autopilot-x`
-A project around **YouTube/content automation workflows** and the systems needed to make content production more repeatable.
-
-🔗 https://github.com/RishabhJain027/yt-autopilot-x
-
-### `ComfyUI-MiniMaxH3-Easy`
-A **ComfyUI / AI-video-generation experiment**, focused on making an advanced workflow easier to work with.
-
-🔗 https://github.com/RishabhJain027/ComfyUI-MiniMaxH3-Easy
 
 ---
 
