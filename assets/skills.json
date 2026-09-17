@@ -1,0 +1,34 @@
+{
+  "title": "Skill Radar",
+  "_comment": "Self-rated, 0-100. Edit these and the Charts workflow redraws the radar.",
+  "axes": [
+    {
+      "label": "IoT & Embedded",
+      "value": 92
+    },
+    {
+      "label": "Cinematography",
+      "value": 90
+    },
+    {
+      "label": "Creative GLSL",
+      "value": 88
+    },
+    {
+      "label": "AI & Autopilot",
+      "value": 86
+    },
+    {
+      "label": "Three.js / 3D",
+      "value": 85
+    },
+    {
+      "label": "Full-Stack Web",
+      "value": 84
+    },
+    {
+      "label": "Microcontrollers",
+      "value": 88
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "_comment": "Featured repos, in README order. Stars/forks/language come live from the API on every run; the description here overrides the repo's GitHub description.",
+  "projects": [
+    {
+      "repo": "gods-eye-view",
+      "description": "AI-powered satellite and aerial intelligence platform for geospatial analytics and real-time object detection."
+    },
+    {
+      "repo": "yt-autopilot-x",
+      "description": "Autonomous YouTube Channel Operating System orchestrating video ideation, script generation, and workflow automation."
+    },
+    {
+      "repo": "TideTone",
+      "description": "AI Voice Studio - Multilingual neural speech synthesizer engineered with translucent glassmorphism UI."
+    },
+    {
+      "repo": "RISH-CAM",
+      "description": "Vintage Film Camera. Mobile-first camera app featuring real film damage textures, 10 film stock presets, and an 8-step rendering pipeline."
+    }
+  ]
+}

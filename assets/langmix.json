@@ -1,0 +1,30 @@
+{
+  "title": "Contract & Language Stack",
+  "_comment": "Hand-authored stack radar. Values 0-100. Edit these and the Charts workflow redraws it.",
+  "axes": [
+    {
+      "label": "C++",
+      "value": 88
+    },
+    {
+      "label": "Python",
+      "value": 92
+    },
+    {
+      "label": "TypeScript",
+      "value": 86
+    },
+    {
+      "label": "JavaScript",
+      "value": 85
+    },
+    {
+      "label": "GLSL / Shaders",
+      "value": 82
+    },
+    {
+      "label": "HTML / CSS",
+      "value": 80
+    }
+  ]
+}
